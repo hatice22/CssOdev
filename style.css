@@ -82,3 +82,16 @@ body{
   left:12%;
  
 }
+
+#ilk{
+
+  text-align: center;
+  float: left; 
+  margin-top: 10px;
+
+}
+#ikinci{
+  text-align:center; 
+  display:inline;
+  font-family:'Big Shoulders Stencil Display', cursive ;
+}
